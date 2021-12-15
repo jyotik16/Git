@@ -12,8 +12,8 @@ git commit -a
 
 git commit -a -m"" --> skip statge area direct commit
 
-git add .
-git add -A
+git add . (this will add new file)
+git add -A (this will add new file as well as deleted the file )
 
 git diff --> compare working tree with stating area
 git diff --staged  -->compare stating area with last commit
@@ -62,7 +62,7 @@ url ka name ->origin hogya h
 git remote -v --> where u get fetch or Push
 
 
-git push origin master 
+git push origin master (To push data form local to remote respository)
 
 username jyotik16
 password Mytoken
