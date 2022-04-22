@@ -75,6 +75,7 @@ git remote -v
 > origin  https://github.com/USERNAME/REPOSITORY.git (push)
 
 
+![img](https://csharpcorner-mindcrackerinc.netdna-ssl.com/article/steps-to-initialize-a-git-repository-and-push-the-changes-to-github-in-deta/Images/2844.png)
 
 
 
